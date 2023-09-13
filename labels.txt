@@ -1,0 +1,3 @@
+0 No Face mask
+1 Have Face mask
+2 No one
